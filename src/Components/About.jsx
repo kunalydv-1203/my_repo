@@ -24,7 +24,7 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Hello! I'm Kunal Yadav, a passionate web developer and recent graduate with a degree in Science. I discovered my love for web designing during my studies, and I'm excited to embark on a journey where creativity meets functionality in the digital world.I specialize in crafting user-friendly and aesthetically pleasing websites that not only showcase content but also provide a seamless user experience. From developing intuitive interfaces to ensuring responsive design across devices, I strive to bring ideas to life through code.";
 
 /**
  * List of some of skills or technologies you work on, are learning,
@@ -33,10 +33,9 @@ const description =
 const skillsList = [
   "Web design",
   "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
+  "User Interface",
+  "Frontend Developer",
+  "Backend Developer",
 ];
 
 /**
@@ -45,7 +44,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "Outside of coding, I enjoy staying updated with the latest web development trends and technologies, constantly seeking to expand my skills and knowledge. My goal is to create impactful digital experiences that leave a lasting impression.";
 
 const About = () => {
   return (
